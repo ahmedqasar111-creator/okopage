@@ -1,0 +1,42 @@
+body {
+  font-family: Poppins, sans-serif;
+  background: linear-gradient(135deg, #00c6ff, #0072ff);
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+form {
+  background: white;
+  color: black;
+  padding: 15px;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+
+input, textarea {
+  width: 90%;
+  padding: 10px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+button {
+  background: #0072ff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+button:hover {
+  background: #0055cc;
+}
